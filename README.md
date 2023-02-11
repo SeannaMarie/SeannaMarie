@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeannaMarie
 - 👀 I’m interested in learning tech skills
-- 🌱 I’m currently learning CSS
+- 🌱 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me seanna.coleman@wsu.edu
 
