@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeannaMarie
 - 👀 I’m interested in learning tech skills
 - 🌱 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me seanna.coleman@wsu.edu
 
 <!---
